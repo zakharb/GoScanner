@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/version-1.0-red)
 ![](https://img.shields.io/badge/go-1.18-red)
 
-## Содержание  
+## Content  
 [Important info](#important_info)  
 [Install](#install)  
 [Run](#install)  
