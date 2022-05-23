@@ -20,8 +20,8 @@
 ## Important info  
 </a>  
 
-> GO Scanner is GO utility to fast port scanning    
-> Using Go routines for multiprocessing    
+> GO Scanner is utility to fast port scanning    
+> Using goroutines for multiprocessing    
 
 <a name="install"/>  
 
